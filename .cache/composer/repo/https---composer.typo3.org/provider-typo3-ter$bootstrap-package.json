@@ -1,0 +1,1241 @@
+{
+    "packages": {
+        "typo3-ter/bootstrap-package": {
+            "6.2.0": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.0",
+                "version_normalized": "6.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-03-20 10:11:29",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "uid": 2012
+            },
+            "6.2.1": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.1",
+                "version_normalized": "6.2.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-03-24 21:33:42",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Boostrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework, and is basicly a THEME.",
+                "uid": 2013
+            },
+            "6.2.10": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.10",
+                "version_normalized": "6.2.10.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.10/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.12, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-04-27 23:13:16",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2014
+            },
+            "6.2.11": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.11",
+                "version_normalized": "6.2.11.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.11/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.13, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-06-20 18:23:54",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2015
+            },
+            "6.2.12": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.12",
+                "version_normalized": "6.2.12.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.12/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.13, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-06-21 10:28:42",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2016
+            },
+            "6.2.13": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.13",
+                "version_normalized": "6.2.13.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.13/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.13, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-06-24 13:02:29",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2017
+            },
+            "6.2.14": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.14",
+                "version_normalized": "6.2.14.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.14/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.14, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-08-04 01:16:26",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2018
+            },
+            "6.2.15": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.15",
+                "version_normalized": "6.2.15.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.15/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.14, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2015-08-16 19:20:16",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2019
+            },
+            "6.2.16": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.16",
+                "version_normalized": "6.2.16.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.16/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.14, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2016-06-15 11:18:55",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2020
+            },
+            "6.2.2": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.2",
+                "version_normalized": "6.2.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-03-25 15:17:02",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Boostrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework, and is basicly a THEME.",
+                "uid": 2021
+            },
+            "6.2.4": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.4",
+                "version_normalized": "6.2.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-03-30 23:10:45",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Boostrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2022
+            },
+            "6.2.5": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.5",
+                "version_normalized": "6.2.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-09-05 23:35:51",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Boostrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2023
+            },
+            "6.2.6": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.6",
+                "version_normalized": "6.2.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.6, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-11-06 22:58:25",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2024
+            },
+            "6.2.7": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.7",
+                "version_normalized": "6.2.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99",
+                    "typo3/cms-core": ">= 6.2.6, <= 7.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2014-12-02 22:06:10",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2025
+            },
+            "6.2.8": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.8",
+                "version_normalized": "6.2.8.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.8/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99"
+                },
+                "time": "2014-12-11 15:11:02",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2026
+            },
+            "6.2.9": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "6.2.9",
+                "version_normalized": "6.2.9.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/6.2.9/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.9, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/realurl": ">= 1.12.8, <= 1.12.99"
+                },
+                "time": "2015-02-24 15:53:57",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend for TYPO3 CMS 6.2, based on the Bootstrap CSS Framework.",
+                "uid": 2027
+            },
+            "7.0.0": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.0.0",
+                "version_normalized": "7.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 7.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2016-03-08 11:39:01",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2028
+            },
+            "7.0.1": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.0.1",
+                "version_normalized": "7.0.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.0.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2016-03-22 18:53:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2029
+            },
+            "7.0.2": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.0.2",
+                "version_normalized": "7.0.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.0.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2016-03-30 12:07:27",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2030
+            },
+            "7.0.4": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.0.4",
+                "version_normalized": "7.0.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.0.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2016-12-27 02:35:20",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2031
+            },
+            "7.0.5": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.0.5",
+                "version_normalized": "7.0.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.0.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-01-13 00:50:32",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2032
+            },
+            "7.1.0": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "7.1.0",
+                "version_normalized": "7.1.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/7.1.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.2, <= 8.5.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-02-17 10:43:38",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2033
+            },
+            "8.0.0": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.0",
+                "version_normalized": "8.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-04-04 08:31:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2034
+            },
+            "8.0.1": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.1",
+                "version_normalized": "8.0.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 8.99.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-05-30 19:41:14",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2035
+            },
+            "8.0.2": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.2",
+                "version_normalized": "8.0.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 9.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-06-03 23:18:30",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2036
+            },
+            "8.0.3": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.3",
+                "version_normalized": "8.0.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 9.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-06-20 14:54:24",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2037
+            },
+            "8.0.4": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.4",
+                "version_normalized": "8.0.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 9.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-10-24 15:15:44",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2038
+            },
+            "8.0.5": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "8.0.5",
+                "version_normalized": "8.0.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/8.0.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 9.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-11-30 12:00:26",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2039
+            },
+            "9.0.0": {
+                "name": "typo3-ter/bootstrap-package",
+                "version": "9.0.0",
+                "version_normalized": "9.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/bootstrap_package/9.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 8.7.0, <= 9.0.99"
+                },
+                "conflict": {
+                    "typo3-ter/dyncss": "*",
+                    "typo3-ter/fluidpages": "*",
+                    "typo3-ter/themes": "*"
+                },
+                "replace": {
+                    "bootstrap_package": "self.version",
+                    "typo3-ter/bootstrap_package": "self.version"
+                },
+                "time": "2017-11-30 12:15:06",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "BK2K\\BootstrapPackage\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Benjamin Kott",
+                        "email": "info@bk2k.info",
+                        "company": "private",
+                        "username": "benjaminkott"
+                    }
+                ],
+                "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
+                "uid": 2040
+            }
+        }
+    }
+}

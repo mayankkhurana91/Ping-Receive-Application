@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "friendsoftypo3/extension-builder": "^8.7"
+    },
+    "require": {
+        "typo3/cms-felogin": "^8.7",
+        "georgringer/news": "^6.1"
+    }
+}

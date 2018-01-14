@@ -1,0 +1,845 @@
+{
+    "packages": {
+        "typo3-ter/themes": {
+            "2.1.0": {
+                "name": "typo3-ter/themes",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.1.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.1.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 6.2.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-01-04 12:14:32",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21674
+            },
+            "2.3.0": {
+                "name": "typo3-ter/themes",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.3.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.1.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-01-28 08:12:43",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21675
+            },
+            "2.3.1": {
+                "name": "typo3-ter/themes",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.3.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-02-20 13:17:30",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21676
+            },
+            "2.3.2": {
+                "name": "typo3-ter/themes",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.3.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-04-09 14:52:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21677
+            },
+            "2.3.3": {
+                "name": "typo3-ter/themes",
+                "version": "2.3.3",
+                "version_normalized": "2.3.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.3.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-04-10 20:11:08",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21678
+            },
+            "2.4.0": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-05-06 20:58:06",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Kay Strobach",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21679
+            },
+            "2.4.2": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-05-17 14:28:10",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21680
+            },
+            "2.4.3": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-06-04 16:55:28",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21681
+            },
+            "2.4.4": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-06-11 14:04:13",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21682
+            },
+            "2.4.5": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.5",
+                "version_normalized": "2.4.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-06-11 14:44:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21683
+            },
+            "2.4.6": {
+                "name": "typo3-ter/themes",
+                "version": "2.4.6",
+                "version_normalized": "2.4.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.4.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-07-07 14:33:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21684
+            },
+            "2.5.0": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.2.1",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 7.0.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-08-06 06:49:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21685
+            },
+            "2.5.1": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/static-info-tables": ">= 6.3.0, <= 6.3.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "*"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-12-14 13:45:52",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21686
+            },
+            "2.5.2": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.3.0, <= 6.3.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.5, <= 6.2.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-12-14 14:59:12",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21687
+            },
+            "2.5.3": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.3.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.14, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "*"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2015-12-14 16:34:01",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21688
+            },
+            "2.5.4": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.3.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.14, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "*"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2016-01-18 13:20:17",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21689
+            },
+            "2.5.5": {
+                "name": "typo3-ter/themes",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/2.5.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "php": ">= 5.2.0",
+                    "typo3-ter/static-info-tables": ">= 6.0.10, <= 6.3.99",
+                    "typo3-ter/yaml-parser": ">= 1.0.0, <= 1.0.99",
+                    "typo3/cms-core": ">= 6.2.14, <= 6.2.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "*"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2016-01-19 18:20:08",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21690
+            },
+            "7.0.0": {
+                "name": "typo3-ter/themes",
+                "version": "7.0.0",
+                "version_normalized": "7.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/7.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/static-info-tables": ">= 6.3.0, <= 6.3.99",
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "*",
+                    "typo3-ter/yaml-parser": "*"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2016-04-09 20:57:10",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "KayStrobach\\Themes\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21691
+            },
+            "7.0.2": {
+                "name": "typo3-ter/themes",
+                "version": "7.0.2",
+                "version_normalized": "7.0.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/7.0.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/static-info-tables": ">= 6.3.0, <= 6.3.99",
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "<= 1.99.99",
+                    "typo3-ter/yaml-parser": "<= 1.99.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2016-04-11 20:43:36",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "KayStrobach\\Themes\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21692
+            },
+            "7.0.3": {
+                "name": "typo3-ter/themes",
+                "version": "7.0.3",
+                "version_normalized": "7.0.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/themes/7.0.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3-ter/static-info-tables": ">= 6.3.0, <= 6.3.99",
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "conflict": {
+                    "typo3-ter/belayout-tsprovider": "<= 1.99.99",
+                    "typo3-ter/yaml-parser": "<= 1.99.99"
+                },
+                "replace": {
+                    "themes": "self.version"
+                },
+                "time": "2016-07-22 10:40:37",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "KayStrobach\\Themes\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Themes-Team (Kay Strobach, Jo Hasenau, Thomas Deuling)",
+                        "email": "typo3@kay-strobach.de",
+                        "company": "private",
+                        "username": "themes"
+                    }
+                ],
+                "uid": 21693
+            }
+        }
+    }
+}

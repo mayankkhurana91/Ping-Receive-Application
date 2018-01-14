@@ -1,0 +1,2820 @@
+{
+    "packages": {
+        "typo3-ter/typo3-console": {
+            "1.0.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2014-12-06 19:58:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22858
+            },
+            "1.0.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2014-12-07 02:35:48",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22859
+            },
+            "1.0.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2014-12-10 23:57:04",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22860
+            },
+            "1.0.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-01-09 20:28:18",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22861
+            },
+            "1.0.4": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-02-23 12:04:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22862
+            },
+            "1.0.5": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-02-23 13:17:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22863
+            },
+            "1.0.6": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-02-23 15:20:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22864
+            },
+            "1.0.7": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.0.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-02-23 15:59:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22865
+            },
+            "1.1.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-05-12 16:49:07",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22866
+            },
+            "1.1.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-06-18 21:36:43",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22867
+            },
+            "1.1.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.3.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-07-07 11:13:35",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22868
+            },
+            "1.1.4": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-09-21 21:43:50",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22869
+            },
+            "1.1.5": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-10-01 09:46:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22870
+            },
+            "1.1.6": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-10-01 09:49:39",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22871
+            },
+            "1.1.7": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-03-10 21:40:45",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        "Classes/Package.php"
+                    ],
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22872
+            },
+            "1.1.8": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.8/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-11-01 14:51:38",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        "Classes/Package.php"
+                    ],
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22873
+            },
+            "1.1.9": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.1.9/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.6, <= 7.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-01-11 23:24:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        "Classes/Package.php"
+                    ],
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22874
+            },
+            "1.2.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-09-04 19:33:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22875
+            },
+            "1.2.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-09-04 23:38:23",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22876
+            },
+            "1.2.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-09-21 21:40:07",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22877
+            },
+            "1.2.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-10-01 10:15:58",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22878
+            },
+            "1.2.4": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-11-21 18:00:52",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22879
+            },
+            "1.2.5": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.4.0, <= 7.99.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2015-11-23 22:10:07",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22880
+            },
+            "1.2.6": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-03-10 20:03:03",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22881
+            },
+            "1.2.7": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.2.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-03-11 12:45:19",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22882
+            },
+            "1.3.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/1.3.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.0.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-03-23 22:26:20",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22883
+            },
+            "2.0.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/2.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.0.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-04-25 17:41:12",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "helmut.hummel@typo3.org",
+                        "company": "",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22884
+            },
+            "3.0.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.1.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-06-22 09:39:10",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22885
+            },
+            "3.1.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.1.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-07 11:28:54",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22886
+            },
+            "3.1.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.1.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-12 19:35:50",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22887
+            },
+            "3.2.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-16 18:48:45",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22888
+            },
+            "3.2.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.2.1",
+                "version_normalized": "3.2.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.2.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-22 11:19:29",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22889
+            },
+            "3.2.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.2.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-27 11:59:31",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22890
+            },
+            "3.2.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.2.3",
+                "version_normalized": "3.2.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.2.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-07-29 13:47:37",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22891
+            },
+            "3.3.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.3.0",
+                "version_normalized": "3.3.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.3.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-08-01 12:05:31",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22892
+            },
+            "3.3.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.3.1",
+                "version_normalized": "3.3.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.3.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-08-23 12:25:53",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22893
+            },
+            "3.4.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.4.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-10-15 14:59:18",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22894
+            },
+            "3.4.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.4.1",
+                "version_normalized": "3.4.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.4.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.2.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-10-17 11:00:27",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22895
+            },
+            "3.5.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.5.0",
+                "version_normalized": "3.5.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.5.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.4.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-10-21 22:07:39",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22896
+            },
+            "3.5.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.5.1",
+                "version_normalized": "3.5.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.5.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.4.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-11-01 16:44:41",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22897
+            },
+            "3.5.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "3.5.2",
+                "version_normalized": "3.5.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/3.5.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.4.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-01-12 00:04:06",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": "Classes/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22898
+            },
+            "4.0.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.4.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-11-01 17:05:26",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22899
+            },
+            "4.0.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.0.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.4.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-11-15 19:45:34",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22900
+            },
+            "4.1.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.1.0",
+                "version_normalized": "4.1.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.1.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.5.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-12-25 14:33:21",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22901
+            },
+            "4.1.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.1.1",
+                "version_normalized": "4.1.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.1.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.5.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2016-12-26 17:45:57",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22902
+            },
+            "4.1.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.1.2",
+                "version_normalized": "4.1.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.1.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.5.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-01-12 02:35:23",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22903
+            },
+            "4.2.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-02-14 23:56:56",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22904
+            },
+            "4.2.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.2.1",
+                "version_normalized": "4.2.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.2.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-02-23 02:10:28",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22905
+            },
+            "4.3.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.3.0",
+                "version_normalized": "4.3.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.3.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-03-12 00:24:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22906
+            },
+            "4.4.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.4.0",
+                "version_normalized": "4.4.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.4.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.6.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-04 19:16:17",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22907
+            },
+            "4.4.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.4.1",
+                "version_normalized": "4.4.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.4.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-06 18:09:22",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22908
+            },
+            "4.5.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.5.0",
+                "version_normalized": "4.5.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.5.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-17 20:42:14",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22909
+            },
+            "4.5.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.5.1",
+                "version_normalized": "4.5.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.5.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-18 19:09:58",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22910
+            },
+            "4.5.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.5.2",
+                "version_normalized": "4.5.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.5.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-18 23:00:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22911
+            },
+            "4.5.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.5.3",
+                "version_normalized": "4.5.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.5.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-04-19 12:04:59",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22912
+            },
+            "4.6.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.0",
+                "version_normalized": "4.6.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-05-24 17:21:40",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22913
+            },
+            "4.6.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.1",
+                "version_normalized": "4.6.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-05-26 15:59:40",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22914
+            },
+            "4.6.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.2",
+                "version_normalized": "4.6.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-06-14 22:05:55",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22915
+            },
+            "4.6.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.3",
+                "version_normalized": "4.6.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-06-16 12:22:40",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22916
+            },
+            "4.6.4": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.4",
+                "version_normalized": "4.6.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-06-22 01:07:18",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22917
+            },
+            "4.6.5": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.5",
+                "version_normalized": "4.6.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-07-06 19:42:58",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22918
+            },
+            "4.6.6": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.6",
+                "version_normalized": "4.6.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-07-21 17:45:27",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22919
+            },
+            "4.6.7": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.7",
+                "version_normalized": "4.6.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-08-11 17:34:28",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22920
+            },
+            "4.6.8": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.6.8",
+                "version_normalized": "4.6.8.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.6.8/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-08-12 02:02:41",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22921
+            },
+            "4.7.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.7.0",
+                "version_normalized": "4.7.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.7.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-08-14 22:25:34",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22922
+            },
+            "4.8.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.8.0",
+                "version_normalized": "4.8.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.8.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-09-08 16:18:39",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22923
+            },
+            "4.8.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.8.1",
+                "version_normalized": "4.8.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.8.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-09-12 00:21:51",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22924
+            },
+            "4.8.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.8.2",
+                "version_normalized": "4.8.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.8.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-09-12 12:38:53",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22925
+            },
+            "4.8.3": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.8.3",
+                "version_normalized": "4.8.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.8.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-09-12 21:58:23",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22926
+            },
+            "4.9.0": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.9.0",
+                "version_normalized": "4.9.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.9.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-09-20 20:59:14",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22927
+            },
+            "4.9.1": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.9.1",
+                "version_normalized": "4.9.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.9.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-10-05 23:23:10",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22928
+            },
+            "4.9.2": {
+                "name": "typo3-ter/typo3-console",
+                "version": "4.9.2",
+                "version_normalized": "4.9.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/typo3_console/4.9.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 8.7.99"
+                },
+                "replace": {
+                    "typo3-ter/typo3_console": "self.version",
+                    "typo3_console": "self.version"
+                },
+                "time": "2017-10-06 13:16:25",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "Helhum\\Typo3Console\\": [
+                            "Classes/",
+                            "Resources/Private/ExtensionArtifacts/src/"
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Helmut Hummel",
+                        "email": "info@helhum.io",
+                        "company": "helhum.io",
+                        "username": "helbot"
+                    }
+                ],
+                "description": "A reliable and powerful command line interface for TYPO3 CMS",
+                "abandoned": "helhum/typo3-console",
+                "uid": 22929
+            }
+        }
+    }
+}

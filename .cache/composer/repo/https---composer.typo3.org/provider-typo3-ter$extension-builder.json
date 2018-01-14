@@ -1,0 +1,1031 @@
+{
+    "packages": {
+        "typo3-ter/extension-builder": {
+            "2.0.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-08-18 21:59:37",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6934
+            },
+            "2.0.1": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-08-20 15:29:54",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6935
+            },
+            "2.0.2": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-09-18 21:19:08",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6936
+            },
+            "2.0.3": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-09-20 20:25:46",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6937
+            },
+            "2.0.4": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-10-03 22:50:27",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6938
+            },
+            "2.0.5": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.0.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2011-10-06 16:38:42",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6939
+            },
+            "2.2.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-02-26 21:40:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6940
+            },
+            "2.3.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.3.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-04-14 22:57:35",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6941
+            },
+            "2.4.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-07-01 14:18:38",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6942
+            },
+            "2.4.1": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-04 07:56:39",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6943
+            },
+            "2.4.2": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 21:35:09",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6944
+            },
+            "2.4.3": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.3/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 21:39:21",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6945
+            },
+            "2.4.4": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.4/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 21:41:48",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6946
+            },
+            "2.4.5": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.5",
+                "version_normalized": "2.4.5.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.5/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 21:55:30",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6947
+            },
+            "2.4.6": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.6",
+                "version_normalized": "2.4.6.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.6/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 21:59:33",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6948
+            },
+            "2.4.7": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.4.7",
+                "version_normalized": "2.4.7.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.4.7/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-02 22:02:00",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6949
+            },
+            "2.5.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.5.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-04 08:55:14",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6950
+            },
+            "2.5.1": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.5.1/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2012-12-05 11:53:18",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6951
+            },
+            "2.5.2": {
+                "name": "typo3-ter/extension-builder",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/2.5.2/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": "*"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2013-02-18 09:17:27",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Ingmar Schlecht, Nico de Haen",
+                        "email": "ingmar@typo3.org,mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6952
+            },
+            "6.2.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "6.2.0",
+                "version_normalized": "6.2.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/6.2.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.1.0, <= 6.2.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/phpunit": "*"
+                },
+                "time": "2014-05-12 21:42:17",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6953
+            },
+            "6.2.15": {
+                "name": "typo3-ter/extension-builder",
+                "version": "6.2.15",
+                "version_normalized": "6.2.15.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/6.2.15/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 6.2.0, <= 6.2.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/phpunit": "*"
+                },
+                "time": "2015-11-21 18:38:29",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6954
+            },
+            "7.6.0": {
+                "name": "typo3-ter/extension-builder",
+                "version": "7.6.0",
+                "version_normalized": "7.6.0.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/7.6.0/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/phpunit": "*"
+                },
+                "time": "2015-11-23 00:02:22",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ],
+                    "exclude-from-classmap": [
+                        "Migrations",
+                        "Tests",
+                        "tests",
+                        "class.ext_update.php"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6955
+            },
+            "7.6.16": {
+                "name": "typo3-ter/extension-builder",
+                "version": "7.6.16",
+                "version_normalized": "7.6.16.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/7.6.16/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/phpunit": "*"
+                },
+                "time": "2017-03-09 01:29:54",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "EBT\\ExtensionBuilder\\": "Classes/",
+                        "PhpParser\\": "Resources/Private/PHP/PHP-Parser/lib/PhpParser/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6956
+            },
+            "7.6.17": {
+                "name": "typo3-ter/extension-builder",
+                "version": "7.6.17",
+                "version_normalized": "7.6.17.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/7.6.17/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "suggest": {
+                    "typo3-ter/phpunit": "*"
+                },
+                "time": "2017-03-12 18:25:19",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "EBT\\ExtensionBuilder\\": "Classes/",
+                        "PhpParser\\": "Resources/Private/PHP/PHP-Parser/lib/PhpParser/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6957
+            },
+            "7.6.18": {
+                "name": "typo3-ter/extension-builder",
+                "version": "7.6.18",
+                "version_normalized": "7.6.18.0",
+                "dist": {
+                    "type": "t3x",
+                    "url": "https://extensions.typo3.org/extension/download/extension_builder/7.6.18/t3x/",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "typo3/cms-core": ">= 7.6.0, <= 7.6.99"
+                },
+                "replace": {
+                    "extension_builder": "self.version",
+                    "typo3-ter/extension_builder": "self.version"
+                },
+                "time": "2017-03-25 23:45:05",
+                "type": "typo3-cms-extension",
+                "autoload": {
+                    "psr-4": {
+                        "EBT\\ExtensionBuilder\\": "Classes/",
+                        "PhpParser\\": "Resources/Private/PHP/PHP-Parser/lib/PhpParser/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Nico de Haen",
+                        "email": "mail@ndh-websolutions.de",
+                        "company": "",
+                        "username": "nicodh"
+                    }
+                ],
+                "description": "The Extension Builder helps you build and manage your Extbase based TYPO3 extensions.",
+                "uid": 6958
+            }
+        }
+    }
+}

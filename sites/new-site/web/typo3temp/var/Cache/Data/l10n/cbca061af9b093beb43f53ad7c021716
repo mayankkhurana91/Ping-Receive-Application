@@ -1,0 +1,145 @@
+a:65:{s:12:".description";a:1:{i:0;a:2:{s:6:"source";s:151:"This is the table of backend administration users. Backend users can login in the backend of TYPO3 and are typically producers of content on a website.";s:6:"target";s:151:"This is the table of backend administration users. Backend users can login in the backend of TYPO3 and are typically producers of content on a website.";}}s:8:".details";a:1:{i:0;a:2:{s:6:"source";s:1313:"The main settings for a backend user is a username, password and group memberships. The username and password authenticates the user to the system. The group memberships enables the user to perform actions in TYPO3 since groups are the main source of permission settings for a backend user.
+Backend usergroups can also be understood as "roles". A usergroup can contain a configuration of permissions which allows the user to play a certain role in the system.
+
+<b>The "Admin" user</b>
+There is a special kind of user, the "Admin" user. This user has access to everything in TYPO3. There are no limits for Admin-users at all. You should normally have only a single or two admin-users in your system.
+Admin-users are the only users who can create other backend users. Alternatively you can create an "Action" which enables other normal users to do it as well (with certain restrictions of course).
+
+<b>Location</b>
+Backend users are always created in the root of the page tree (like Backend groups are).
+
+<b>Comparing Users</b>
+To manage and compare users, getting an overview of their access credentials etc. you can use the Tools > User Admin module (extension: beuser). It allows you to group users by various categories of permissions. You can also switch to another users account by a single click of a button.";s:6:"target";s:1313:"The main settings for a backend user is a username, password and group memberships. The username and password authenticates the user to the system. The group memberships enables the user to perform actions in TYPO3 since groups are the main source of permission settings for a backend user.
+Backend usergroups can also be understood as "roles". A usergroup can contain a configuration of permissions which allows the user to play a certain role in the system.
+
+<b>The "Admin" user</b>
+There is a special kind of user, the "Admin" user. This user has access to everything in TYPO3. There are no limits for Admin-users at all. You should normally have only a single or two admin-users in your system.
+Admin-users are the only users who can create other backend users. Alternatively you can create an "Action" which enables other normal users to do it as well (with certain restrictions of course).
+
+<b>Location</b>
+Backend users are always created in the root of the page tree (like Backend groups are).
+
+<b>Comparing Users</b>
+To manage and compare users, getting an overview of their access credentials etc. you can use the Tools > User Admin module (extension: beuser). It allows you to group users by various categories of permissions. You can also switch to another users account by a single click of a button.";}}s:9:"_.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:384:"be_groups,
+About backend users | https://docs.typo3.org/typo3cms/GettingStartedTutorial/UserManagement/BackendUsers/
+Setting up a new user and group | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/AccessControl/SettingUpANewUser/
+Users and Groups [Technical] | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/AccessControl/UsersAndGroups/";s:6:"target";s:384:"be_groups,
+About backend users | https://docs.typo3.org/typo3cms/GettingStartedTutorial/UserManagement/BackendUsers/
+Setting up a new user and group | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/AccessControl/SettingUpANewUser/
+Users and Groups [Technical] | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/AccessControl/UsersAndGroups/";}}s:7:"_.image";a:1:{i:0;a:2:{s:6:"source";s:169:"EXT:lang/Resources/Public/Images/cshimages/beuser_2.png,
+EXT:lang/Resources/Public/Images/cshimages/beuser_1.png,
+EXT:lang/Resources/Public/Images/cshimages/beuser_3.png";s:6:"target";s:169:"EXT:lang/Resources/Public/Images/cshimages/beuser_2.png,
+EXT:lang/Resources/Public/Images/cshimages/beuser_1.png,
+EXT:lang/Resources/Public/Images/cshimages/beuser_3.png";}}s:12:".image_descr";a:1:{i:0;a:2:{s:6:"source";s:378:"Backend users are found in the root of the page tree. "Admin" backend users can always be recognized on their icon being red while normal users have a blue icon.
+The editing form of a backend users record.
+The "Tools > User Admin" module where you can get an overview of the users on the system and what permissions they have. Click the "SU" button to switch to a users account.";s:6:"target";s:378:"Backend users are found in the root of the page tree. "Admin" backend users can always be recognized on their icon being red while normal users have a blue icon.
+The editing form of a backend users record.
+The "Tools > User Admin" module where you can get an overview of the users on the system and what permissions they have. Click the "SU" button to switch to a users account.";}}s:20:"username.description";a:1:{i:0;a:2:{s:6:"source";s:41:"Enter the login name of the backend user.";s:6:"target";s:41:"Enter the login name of the backend user.";}}s:16:"username.details";a:1:{i:0;a:2:{s:6:"source";s:171:"A username is required and must be in lowercase without spaces in it. Furthermore the username must be unique. If it is not unique a number will be appended automatically.";s:6:"target";s:171:"A username is required and must be in lowercase without spaces in it. Furthermore the username must be unique. If it is not unique a number will be appended automatically.";}}s:17:"_username.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:17:"be_users:password";s:6:"target";s:17:"be_users:password";}}s:20:"password.description";a:1:{i:0;a:2:{s:6:"source";s:117:"Enter the password for the backend username above (Notice the value you enter <i>will</i> be readable in the field!).";s:6:"target";s:117:"Enter the password for the backend username above (Notice the value you enter <i>will</i> be readable in the field!).";}}s:16:"password.details";a:1:{i:0;a:2:{s:6:"source";s:932:"The password is required. Before the password is sent to the server it's md5-hashed, so the password value itself is not transferred over the Internet. This is true both when editing the password and when the user logs in.
+While this principle does not reveal the raw password it is <i>not</i> the same as real encryption. If you need the highest degree of security you should install the TYPO3 backend on a secure server.
+The password is stored in the database as an md5-hash and thus it's not possible to extract the original password from the database either. This means that 'lost passwords' must be substituted with a new password for the user.
+
+<b>Notice</b>
+When you enter the password in the password field it is initially visible in clear text! First when the password field focus is lost will the password become a "list of dots".
+
+<b>User changing password</b>
+Users can change their password from the User > Setup module";s:6:"target";s:932:"The password is required. Before the password is sent to the server it's md5-hashed, so the password value itself is not transferred over the Internet. This is true both when editing the password and when the user logs in.
+While this principle does not reveal the raw password it is <i>not</i> the same as real encryption. If you need the highest degree of security you should install the TYPO3 backend on a secure server.
+The password is stored in the database as an md5-hash and thus it's not possible to extract the original password from the database either. This means that 'lost passwords' must be substituted with a new password for the user.
+
+<b>Notice</b>
+When you enter the password in the password field it is initially visible in clear text! First when the password field focus is lost will the password become a "list of dots".
+
+<b>User changing password</b>
+Users can change their password from the User > Setup module";}}s:17:"_password.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:34:"_MOD_user_setup:option_newPassword";s:6:"target";s:34:"_MOD_user_setup:option_newPassword";}}s:21:"usergroup.description";a:1:{i:0;a:2:{s:6:"source";s:39:"Assign backend user groups to the user.";s:6:"target";s:39:"Assign backend user groups to the user.";}}s:17:"usergroup.details";a:1:{i:0;a:2:{s:6:"source";s:413:"The backend user groups defines the permissions which the backend user will inherit. So unless the backend user is an 'Admin' user, he needs to be a member of one or more user groups in order to have practically any permissions assigned. The properties set in the user groups are mostly added together.
+The first (top) group in the list is the group which will, by default, be the owner of pages the user creates.";s:6:"target";s:413:"The backend user groups defines the permissions which the backend user will inherit. So unless the backend user is an 'Admin' user, he needs to be a member of one or more user groups in order to have practically any permissions assigned. The properties set in the user groups are mostly added together.
+The first (top) group in the list is the group which will, by default, be the owner of pages the user creates.";}}s:18:"_usergroup.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:28:"be_users:TSconfig,
+be_groups";s:6:"target";s:28:"be_users:TSconfig,
+be_groups";}}s:24:"lockToDomain.description";a:1:{i:0;a:2:{s:6:"source";s:143:"Enter the host name from which the user is forced to login. NOTICE: this is not a security feature and can be circumvented by faking HTTP_HOST.";s:6:"target";s:143:"Enter the host name from which the user is forced to login. NOTICE: this is not a security feature and can be circumvented by faking HTTP_HOST.";}}s:20:"lockToDomain.details";a:1:{i:0;a:2:{s:6:"source";s:138:"A TYPO3 system may have multiple domains pointing to it. Therefore this option secures that users can login only from a certain host name.";s:6:"target";s:138:"A TYPO3 system may have multiple domains pointing to it. Therefore this option secures that users can login only from a certain host name.";}}s:21:"_lockToDomain.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:69:"be_groups:lockToDomain,
+fe_users:lockToDomain,
+fe_groups:lockToDomain";s:6:"target";s:69:"be_groups:lockToDomain,
+fe_users:lockToDomain,
+fe_groups:lockToDomain";}}s:25:"disableIPlock.description";a:1:{i:0;a:2:{s:6:"source";s:70:"Disable the lock of the backend users session to the remote IP number.";s:6:"target";s:70:"Disable the lock of the backend users session to the remote IP number.";}}s:21:"disableIPlock.details";a:1:{i:0;a:2:{s:6:"source";s:253:"You will have to disable this lock if backend users are accessing TYPO3 from ISDN or modem connections which may shutdown and reconnect with a new IP. The same would be true for DHCP assignment of IP numbers where new IP numbers are frequently assigned.";s:6:"target";s:253:"You will have to disable this lock if backend users are accessing TYPO3 from ISDN or modem connections which may shutdown and reconnect with a new IP. The same would be true for DHCP assignment of IP numbers where new IP numbers are frequently assigned.";}}s:26:"db_mountpoints.description";a:1:{i:0;a:2:{s:6:"source";s:43:"Assign startpoints for the users page tree.";s:6:"target";s:43:"Assign startpoints for the users page tree.";}}s:22:"db_mountpoints.details";a:1:{i:0;a:2:{s:6:"source";s:490:"The page tree used my all Web-submodules to navigate must have some points-of-entry defined. Here you should insert one or more references to a page which will represent a new root page for the page tree. This is called a 'Database mount'.
+
+<strong>Notice</strong> that backend user groups also has DB mounts which can be inherited by the user. So if you want a group of users to share a page tree, you should probably mount the page tree in the backend user group which they share instead.";s:6:"target";s:490:"The page tree used my all Web-submodules to navigate must have some points-of-entry defined. Here you should insert one or more references to a page which will represent a new root page for the page tree. This is called a 'Database mount'.
+
+<strong>Notice</strong> that backend user groups also has DB mounts which can be inherited by the user. So if you want a group of users to share a page tree, you should probably mount the page tree in the backend user group which they share instead.";}}s:23:"_db_mountpoints.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:124:"be_groups:db_mountpoints,
+be_users:file_mountpoints,
+be_users:options,
+xMOD_csh_corebe:perm_module,
+xMOD_csh_corebe:pagetree";s:6:"target";s:124:"be_groups:db_mountpoints,
+be_users:file_mountpoints,
+be_users:options,
+xMOD_csh_corebe:perm_module,
+xMOD_csh_corebe:pagetree";}}s:21:"_db_mountpoints.image";a:1:{i:0;a:2:{s:6:"source";s:118:"EXT:lang/Resources/Public/Images/cshimages/be_groups_3.png,
+EXT:lang/Resources/Public/Images/cshimages/be_groups_4.png";s:6:"target";s:118:"EXT:lang/Resources/Public/Images/cshimages/be_groups_3.png,
+EXT:lang/Resources/Public/Images/cshimages/be_groups_4.png";}}s:26:"db_mountpoints.image_descr";a:1:{i:0;a:2:{s:6:"source";s:298:"A DB mount is assigned to the user. Users can only operate on pages and records which are inside their DB mounts!
+When a page is mounted for a user it will become the root of their page tree. The user must have access to the page through the regular page permissions set in the Web > Access module.";s:6:"target";s:298:"A DB mount is assigned to the user. Users can only operate on pages and records which are inside their DB mounts!
+When a page is mounted for a user it will become the root of their page tree. The user must have access to the page through the regular page permissions set in the Web > Access module.";}}s:28:"file_mountpoints.description";a:1:{i:0;a:2:{s:6:"source";s:44:"Assign startpoints for the file folder tree.";s:6:"target";s:44:"Assign startpoints for the file folder tree.";}}s:24:"file_mountpoints.details";a:1:{i:0;a:2:{s:6:"source";s:240:"The file folder tree is used by all File-submodules to navigate between the file folders on the webserver.
+Notice as with 'DB mounts' the file folder mounts may be inherited from the member groups of the user.
+See Backend Groups for details";s:6:"target";s:240:"The file folder tree is used by all File-submodules to navigate between the file folders on the webserver.
+Notice as with 'DB mounts' the file folder mounts may be inherited from the member groups of the user.
+See Backend Groups for details";}}s:25:"_file_mountpoints.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:111:"be_groups:file_mountpoints,
+be_users:db_mountpoints,
+be_users:options,
+xMOD_csh_corebe:filetree,
+sys_filemounts";s:6:"target";s:111:"be_groups:file_mountpoints,
+be_users:db_mountpoints,
+be_users:options,
+xMOD_csh_corebe:filetree,
+sys_filemounts";}}s:17:"email.description";a:1:{i:0;a:2:{s:6:"source";s:36:"Enter the email address of the user.";s:6:"target";s:36:"Enter the email address of the user.";}}s:13:"email.details";a:1:{i:0;a:2:{s:6:"source";s:205:"This address is rather important to enter because this is where messages from the system is sent.
+<strong>Notice</strong> the user is able to change this value by himself from within the User>Setup module.";s:6:"target";s:205:"This address is rather important to enter because this is where messages from the system is sent.
+<strong>Notice</strong> the user is able to change this value by himself from within the User>Setup module.";}}s:14:"_email.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:53:"be_users:realName,
+_MOD_user_setup:option_newPassword";s:6:"target";s:53:"be_users:realName,
+_MOD_user_setup:option_newPassword";}}s:20:"realName.description";a:1:{i:0;a:2:{s:6:"source";s:50:"Enter the ordinary name of the user, eg. John Doe.";s:6:"target";s:50:"Enter the ordinary name of the user, eg. John Doe.";}}s:16:"realName.details";a:1:{i:0;a:2:{s:6:"source";s:107:"<strong>Notice</strong> the user is able to change this value by himself from within the User>Setup module.";s:6:"target";s:107:"<strong>Notice</strong> the user is able to change this value by himself from within the User>Setup module.";}}s:17:"_realName.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:50:"be_users:email,
+_MOD_user_setup:option_newPassword";s:6:"target";s:50:"be_users:email,
+_MOD_user_setup:option_newPassword";}}s:19:"disable.description";a:1:{i:0;a:2:{s:6:"source";s:62:"This option will temporarily disable the user from logging in.";s:6:"target";s:62:"This option will temporarily disable the user from logging in.";}}s:16:"_disable.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:36:"be_users:starttime,
+be_users:endtime";s:6:"target";s:36:"be_users:starttime,
+be_users:endtime";}}s:17:"admin.description";a:1:{i:0;a:2:{s:6:"source";s:46:"'Admin' users have TOTAL access to the system!";s:6:"target";s:46:"'Admin' users have TOTAL access to the system!";}}s:13:"admin.details";a:1:{i:0;a:2:{s:6:"source";s:853:"'Admin' can do anything TYPO3 allows and this kind of user should be used only for administrative purposes. All daily handling should be done with regular users.
+'Admin' users don't need to be members of any backend user groups. However you should be aware that any page created by an admin user without a group will not have any owner-group assigned and thus it will probably be invisible for other users. If this becomes a problem you can easily solve it by assigning a user group to the 'Admin' user anyway. This does of course not affect the permissions since they are unlimited, but the first group listed is by default the owner group of newly created pages.
+'Admin' users are easily recognized as they appear with a red icon instead of the ordinary blue user-icon.
+
+You should probably not assign any other users than yourself as an 'Admin' user.";s:6:"target";s:853:"'Admin' can do anything TYPO3 allows and this kind of user should be used only for administrative purposes. All daily handling should be done with regular users.
+'Admin' users don't need to be members of any backend user groups. However you should be aware that any page created by an admin user without a group will not have any owner-group assigned and thus it will probably be invisible for other users. If this becomes a problem you can easily solve it by assigning a user group to the 'Admin' user anyway. This does of course not affect the permissions since they are unlimited, but the first group listed is by default the owner group of newly created pages.
+'Admin' users are easily recognized as they appear with a red icon instead of the ordinary blue user-icon.
+
+You should probably not assign any other users than yourself as an 'Admin' user.";}}s:12:"_admin.image";a:1:{i:0;a:2:{s:6:"source";s:55:"EXT:lang/Resources/Public/Images/cshimages/beuser_4.png";s:6:"target";s:55:"EXT:lang/Resources/Public/Images/cshimages/beuser_4.png";}}s:19:"options.description";a:1:{i:0;a:2:{s:6:"source";s:90:"Select if the user should inherit page tree or folder tree mountpoints from member groups.";s:6:"target";s:90:"Select if the user should inherit page tree or folder tree mountpoints from member groups.";}}s:15:"options.details";a:1:{i:0;a:2:{s:6:"source";s:303:"It's a great advantage to let users inherit mountpoints from membergroups because it makes administration of the same mountpoints for many users extremely easy.
+If you don't check these options, you must make sure the mount points for the page tree and file folder tree is set specifically for the user.";s:6:"target";s:303:"It's a great advantage to let users inherit mountpoints from membergroups because it makes administration of the same mountpoints for many users extremely easy.
+If you don't check these options, you must make sure the mount points for the page tree and file folder tree is set specifically for the user.";}}s:16:"_options.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:50:"be_users:db_mountpoints,
+be_users:file_mountpoints";s:6:"target";s:50:"be_users:db_mountpoints,
+be_users:file_mountpoints";}}s:28:"file_permissions.description";a:1:{i:0;a:2:{s:6:"source";s:47:"Select file operation permissions for the user.";s:6:"target";s:47:"Select file operation permissions for the user.";}}s:24:"file_permissions.details";a:1:{i:0;a:2:{s:6:"source";s:408:"These settings relate to the functions found in the File>List module as well as general upload of files.
+
+<strong>Notice</strong> that backend user groups also have file operation permissions which automatically apply to the user if he's member of an accordant group. So if you want a group of users share identical file operation permissions, you should probably define them in a backend user group instead.";s:6:"target";s:408:"These settings relate to the functions found in the File>List module as well as general upload of files.
+
+<strong>Notice</strong> that backend user groups also have file operation permissions which automatically apply to the user if he's member of an accordant group. So if you want a group of users share identical file operation permissions, you should probably define them in a backend user group instead.";}}s:24:"file_permissions.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:52:"be_users:file_mountpoints,
+be_group:file_permissions";s:6:"target";s:52:"be_users:file_mountpoints,
+be_group:file_permissions";}}s:26:"fileoper_perms.description";a:1:{i:0;a:2:{s:6:"source";s:47:"Select file operation permissions for the user.";s:6:"target";s:47:"Select file operation permissions for the user.";}}s:22:"fileoper_perms.details";a:1:{i:0;a:2:{s:6:"source";s:408:"These settings relate to the functions found in the File>List module as well as general upload of files.
+
+<strong>Notice</strong> that backend user groups also have file operation permissions which automatically apply to the user if he's member of an accordant group. So if you want a group of users share identical file operation permissions, you should probably define them in a backend user group instead.";s:6:"target";s:408:"These settings relate to the functions found in the File>List module as well as general upload of files.
+
+<strong>Notice</strong> that backend user groups also have file operation permissions which automatically apply to the user if he's member of an accordant group. So if you want a group of users share identical file operation permissions, you should probably define them in a backend user group instead.";}}s:23:"_fileoper_perms.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:52:"be_users:file_mountpoints,
+be_group:file_permissions";s:6:"target";s:52:"be_users:file_mountpoints,
+be_group:file_permissions";}}s:21:"starttime.description";a:1:{i:0;a:2:{s:6:"source";s:48:"Enter the date from which the account is active.";s:6:"target";s:48:"Enter the date from which the account is active.";}}s:18:"_starttime.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:51:"be_users:disable,
+be_users:endtime,
+pages:starttime";s:6:"target";s:51:"be_users:disable,
+be_users:endtime,
+pages:starttime";}}s:19:"endtime.description";a:1:{i:0;a:2:{s:6:"source";s:50:"Enter the date from which the account is disabled.";s:6:"target";s:50:"Enter the date from which the account is disabled.";}}s:16:"_endtime.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:53:"be_users:disable,
+be_users:starttime,
+pages:starttime";s:6:"target";s:53:"be_users:disable,
+be_users:starttime,
+pages:starttime";}}s:21:"lastlogin.description";a:1:{i:0;a:2:{s:6:"source";s:45:"This field shows the user's last log in date.";s:6:"target";s:45:"This field shows the user's last log in date.";}}s:16:"lang.description";a:1:{i:0;a:2:{s:6:"source";s:35:"Select the <i>default</i> language.";s:6:"target";s:35:"Select the <i>default</i> language.";}}s:12:"lang.details";a:1:{i:0;a:2:{s:6:"source";s:645:"This determines the language of the backend interface for the user. All mainstream parts available for regular users are available in the system language selected.
+'Admin'-users however will experience that the 'Admin'-only parts of TYPO3 is in english. This includes all submodules in "Tools" and the Web>Template module.
+
+<b>Notice</b> this is only setting the default language. As soon as the user has logged in the language must be changed through the User>Setup module. Also you will have to install the corresponding language pack which can be found as an extension on TYPO3.org with the prefix "csh_XX" where XX is the TYPO3 language key.";s:6:"target";s:645:"This determines the language of the backend interface for the user. All mainstream parts available for regular users are available in the system language selected.
+'Admin'-users however will experience that the 'Admin'-only parts of TYPO3 is in english. This includes all submodules in "Tools" and the Web>Template module.
+
+<b>Notice</b> this is only setting the default language. As soon as the user has logged in the language must be changed through the User>Setup module. Also you will have to install the corresponding language pack which can be found as an extension on TYPO3.org with the prefix "csh_XX" where XX is the TYPO3 language key.";}}s:13:"_lang.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:24:"_MOD_user_setup:language";s:6:"target";s:24:"_MOD_user_setup:language";}}s:20:"userMods.description";a:1:{i:0;a:2:{s:6:"source";s:46:"Select available backend modules for the user.";s:6:"target";s:46:"Select available backend modules for the user.";}}s:16:"userMods.details";a:1:{i:0;a:2:{s:6:"source";s:478:"This determines which 'menu items' are available for the user in the backend.
+
+Notice that the same list of modules may be configured for the backend user groups and that these will be inherited by the user in addition to the modules you select here. It's highly likely that you should not set any modules for the user himself but rather select the modules in the backend groups he's a member of. However this list provides a great way to add a single module for specific users.";s:6:"target";s:478:"This determines which 'menu items' are available for the user in the backend.
+
+Notice that the same list of modules may be configured for the backend user groups and that these will be inherited by the user in addition to the modules you select here. It's highly likely that you should not set any modules for the user himself but rather select the modules in the backend groups he's a member of. However this list provides a great way to add a single module for specific users.";}}s:17:"_userMods.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:19:"be_groups:groupMods";s:6:"target";s:19:"be_groups:groupMods";}}s:20:"TSconfig.description";a:1:{i:0;a:2:{s:6:"source";s:50:"Enter additional TSconfig for the user (advanced).";s:6:"target";s:50:"Enter additional TSconfig for the user (advanced).";}}s:16:"TSconfig.details";a:1:{i:0;a:2:{s:6:"source";s:267:"This field allows you to extend the configuration of the user in severe details. A brief summary of the options include a more detailed configuration of the backend modules, setting of user specific default table field values, setting of Rich Text Editor options etc.";s:6:"target";s:267:"This field allows you to extend the configuration of the user in severe details. A brief summary of the options include a more detailed configuration of the backend modules, setting of user specific default table field values, setting of Rich Text Editor options etc.";}}s:17:"_TSconfig.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:134:"pages:TSconfig,
+fe_users:TSconfig,
+be_groups:TSconfig,
+User TSconfig | https://docs.typo3.org/typo3cms/TSconfigReference/UserTsconfig/";s:6:"target";s:134:"pages:TSconfig,
+fe_users:TSconfig,
+be_groups:TSconfig,
+User TSconfig | https://docs.typo3.org/typo3cms/TSconfigReference/UserTsconfig/";}}s:29:"allowed_languages.description";a:1:{i:0;a:2:{s:6:"source";s:68:"Select which record languages the group members are limited to edit.";s:6:"target";s:68:"Select which record languages the group members are limited to edit.";}}s:25:"allowed_languages.details";a:1:{i:0;a:2:{s:6:"source";s:140:"You can also limit users to specific languages with user group settings. Please see the same field for backend user groups for more details.";s:6:"target";s:140:"You can also limit users to specific languages with user group settings. Please see the same field for backend user groups for more details.";}}s:26:"_allowed_languages.seeAlso";a:1:{i:0;a:2:{s:6:"source";s:27:"be_groups:allowed_languages";s:6:"target";s:27:"be_groups:allowed_languages";}}s:24:"_allowed_languages.image";a:1:{i:0;a:2:{s:6:"source";s:59:"EXT:lang/Resources/Public/Images/cshimages/be_groups_18.png";s:6:"target";s:59:"EXT:lang/Resources/Public/Images/cshimages/be_groups_18.png";}}}
